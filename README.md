@@ -12,8 +12,6 @@ This project allows users to sign up and sign in using email OTP verification. A
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Disclaimer](#disclaimer)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
@@ -81,11 +79,3 @@ When a file is hidden, it is deleted from the user's PC and stored in a MySQL da
 ## Disclaimer
 
 Please note that File Guard can store files up to a maximum size of 100KB. If a file exceeds this size limit, its data will be permanently deleted. Use this feature with caution.
-
-## License
-
-- Information about the project's license.
-
-## Contact
-
-- Contact information for the project maintainers.
